@@ -1,6 +1,6 @@
 # SPE_Geohackathon
 
-# THE FILES FOR THE SPE_Geohackathon:
+### THE FILES FOR THE SPE_Geohackathon:
 # a) Well_Logs.ipynb
 # b) ML Models:
 #    1) ML_DecisionTreeRegressor.ipynb
